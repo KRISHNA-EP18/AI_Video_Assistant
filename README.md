@@ -9,13 +9,13 @@ The system leverages a hybrid transcription pipeline—using **Whisper for Engli
 ### Home Page
 
 ```markdown
-![Home](images/home.png)
+![Home](./images/home.png)
 ```
 
 ### Summary Dashboard
 
 ```markdown
-![Summary](images/summary.png)
+![Summary](./images/summary.png)
 ```
 
 ## ✨ Features
