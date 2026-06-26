@@ -8,15 +8,15 @@ The system leverages a hybrid transcription pipeline—using **Whisper for Engli
 
 ### Home Page
 
-```markdown
-![Home](./images/home.png)
-```
+
+![Home](images/home.png)
+
 
 ### Summary Dashboard
 
-```markdown
-![Summary](./images/summary.png)
-```
+
+![Summary](images/summary.png)
+
 
 ## ✨ Features
 
@@ -325,9 +325,6 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Ulisetti Saketh Uzval Krishna**
+**ULISETTI SAKETH UZVAL KRISHNA**
 
-B.Tech Engineering Physics
-Indian Institute of Technology Bhubaneswar
 
-Interested in AI Systems, Distributed Systems, and Applied Machine Learning.
